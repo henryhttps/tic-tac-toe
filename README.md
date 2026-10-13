@@ -1,4 +1,4 @@
-# Project 1A
+# Tic-Tac-Toe v1
 
 ## Instructions
 To start this program, type `python3 client.py <host> <port>`
